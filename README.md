@@ -36,6 +36,7 @@ This notebook is a final assignment project focused on extracting and analyzing 
 ### Tesla
 <img width="825" height="499" alt="image" src="https://github.com/user-attachments/assets/516dbb39-ab97-4374-a2f7-a2dc738a9d0b" />
 <img width="847" height="345" alt="image" src="https://github.com/user-attachments/assets/4e85dc00-8cff-44ce-af4f-907c4cc442bf" />
+
 ### GameStop
 <img width="855" height="492" alt="image" src="https://github.com/user-attachments/assets/5c910b11-378d-4870-8d30-a250605594f5" />
 <img width="855" height="337" alt="image" src="https://github.com/user-attachments/assets/0da81908-39dc-44d0-8fca-63d813ec04db" />
